@@ -1,0 +1,88 @@
+.color {
+  box-shadow: 0px 4px 16px rgba(56, 39, 76, 0.1);
+}
+.image {
+  background-image: url("images/home.png");
+  background-color: #cccccc;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.btn-color {
+  background: #38274c;
+}
+.info {
+  font-family: Airbnb Cereal App;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 56px;
+  letter-spacing: 0.03em;
+  text-align: left;
+  color: #38274c;
+  width: 43%;
+  padding-top: 20rem !important;
+}
+.ptt-5 {
+  padding-top: 15rem !important;
+}
+.width-1 {
+  width: 35% !important;
+  color: #707070;
+}
+.padding-start {
+  padding-left: 6rem !important;
+}
+.bg {
+  background: linear-gradient(309.81deg, #f6f8fa 10.67%, #f2edf7 96.91%);
+  width: 100%;
+}
+.padding-3 {
+  padding-top: 5rem !important;
+  padding-bottom: 5rem !important;
+  color: #38274c;
+}
+
+.radius {
+  border-radius: 1.25rem !important;
+}
+.font-color {
+  color: #38274c;
+}
+.ps1-5 {
+  padding-left: 6rem !important;
+}
+.f-color {
+  background: rgba(56, 39, 76, 1);
+}
+.padding-text {
+  padding-top: 300px;
+  padding-bottom: 300px;
+}
+@media (max-width: 575.98px) {
+  .padding-text {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+}
+
+.margin-start {
+  margin-left: 3rem !important;
+}
+@media (min-width: 1400px) {
+  .margin-start {
+    margin-left: 20rem !important;
+  }
+}
+
+@media (max-width: 1300px) and (min-width: 992px) {
+  .margin-start {
+    margin-left: 11rem !important;
+  }
+}
+@media (max-width: 500px) {
+  .margin-start {
+    margin-left: 0rem !important;
+  }
+}
